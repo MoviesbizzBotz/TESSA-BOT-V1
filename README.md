@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://envs.sh/zOY.jpg" alt="REENUBOT-V1 Logo">
+  <img src="https://envs.sh/3uq.jpg" alt="Tessa-Bot Logo">
 </p>
 <h1 align="center">
-  REENUBOT-V1 
+  TESSA BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
