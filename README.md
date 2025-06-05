@@ -2,7 +2,7 @@
   <img src="https://envs.sh/3uq.jpg" alt="Tessa-Bot Logo">
 </p>
 <h1 align="center">
-  TESSA BOT
+  TESSA BOT V1
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
